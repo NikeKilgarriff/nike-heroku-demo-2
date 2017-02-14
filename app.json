@@ -1,9 +1,9 @@
 {
-  "name": "rocky-falls-17417",
+  "name": "nike-heroku-demo-2",
   "scripts": {
   },
   "env": {
-    "NAME": "Stage"
+    "NAME": "Prod"
   },
   "formation": {
   },
